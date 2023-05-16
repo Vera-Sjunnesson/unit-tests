@@ -9,8 +9,7 @@ This repository contains a bunch of unfinished or buggy functions in the src fol
 3. Now you have node, you can install the dependencies this project needs to run. Make sure you have `cd`'d into this project, and then run `npm install` to install all dependencies listed in package.json.
 4. Finally, you're ready to run the tests! Run `npm run test` to run the full test suite.
 
-## Finding and fixing a test
-
+## Finding and fixing a test - Matilda was here!
 Let's fix the first test together.
 
 The first thing you'll notice when running the entire suite is that you get a lot of output in your terminal. This can be a little overwhelming, so we can make it a little easier on ourselves and run our tests one-at-a-time until we have them all fixed.
